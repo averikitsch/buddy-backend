@@ -1,0 +1,28 @@
+{
+  "name": "buddy-backend",
+  "version": "1.0.0",
+  "description": "profile cloud storage",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/averikitsch/buddy-backend.git"
+  },
+  "author": "Averi Kitsch",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/averikitsch/buddy-backend/issues"
+  },
+  "homepage": "https://github.com/averikitsch/buddy-backend#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "mongoose": "^5.0.1"
+  },
+  "engines": {
+    "node": "9.3.0",
+    "npm": "5.6.0"
+  }
+}
