@@ -2,6 +2,8 @@
 
 Buddy-backend is a Node JS + Express + MongoDB API used with the react native app [Buddy](https://github.com/averikitsch/buddy-capstone) to save profile information.
 
+Find this API on [Heroku](https://buddy-backend.herokuapp.com/)
+
 ## Installation
 1. First clone this repo: `git clone https://github.com/averikitsch/buddy-backend.git`
 ```
